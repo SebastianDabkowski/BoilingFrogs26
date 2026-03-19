@@ -15,7 +15,7 @@ Jeśli chcesz pogadać o architekturze, AI, pracy z zespołami albo po prostu wy
 Chętnie porozmawiam z każdym.
 Jeśli masz pytanie, temat do przegadania albo chcesz wrócić do naszej rozmowy po konferencji, napisz do mnie na LinkedIn i pogadamy.
 
-## Warsztat AI powered Architectural KATA 2.0
+## Warsztat Architectural KATA 2.0 AI powered
 
 Jeśli chcesz wejść głębiej w temat projektowania architektury, zapraszam Cię na warsztat KATA:
 
