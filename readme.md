@@ -27,7 +27,7 @@ Więcej informacji znajdziesz też tutaj:
 
 ### Kod z ulotki
 
-`boilingfrogs`
+`boiling-frogs`
 
 ### Zniżka
 
