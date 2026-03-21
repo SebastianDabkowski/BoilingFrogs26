@@ -1,6 +1,7 @@
 # Dzięki, że jesteś na Boiling Frogs 🐸
 
-Super, że się spotkaliśmy.
+Dziekuje za to ze byles na mojej prezentacji feedback mozesz zostawic pod linkiem.
+[feedback-boilingFrogs](https://feedback.boilingfrogs.pl/rate-lecture/66)
 
 Jeśli chcesz pogadać o architekturze, AI, pracy z zespołami albo po prostu wymienić się doświadczeniami, jestem dziś na miejscu przez cały dzień.
 
@@ -10,7 +11,7 @@ Jeśli chcesz pogadać o architekturze, AI, pracy z zespołami albo po prostu wy
 
 [linkedin.com/in/sebastiandabkowski](https://linkedin.com/in/sebastiandabkowski)
 
-👉 Możesz też od razu do mnie napisać.
+👉 Możesz też od razu do mnie napisać :)
 
 Chętnie porozmawiam z każdym.
 Jeśli masz pytanie, temat do przegadania albo chcesz wrócić do naszej rozmowy po konferencji, napisz do mnie na LinkedIn i pogadamy.
